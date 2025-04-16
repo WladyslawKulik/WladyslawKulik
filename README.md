@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Władysław 👋
 
-<!--
-**WladyslawKulik/WladyslawKulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder / Software Developer @ **Silver Web** (by Silver Web Group)  
+Building modern, independent web tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Silver Web
+
+**Silver Web** is a brand focused on designing and launching original web-based products.  
+We build useful tools that are simple, fast, and thoughtfully crafted.
+
+🧠 Private-first, product-driven.  
+🔗 [silverweb.dev](https://silverweb.dev)
+
+---
+
+## 🚀 Currently
+
+- Developing internal tools and microproducts
+- Preparing the public launch of Silver Web
+
+---
+
+> All private repos you don’t see… might be your next favorite tool 😉
