@@ -22,4 +22,4 @@ Our mission is to create practical web products that solve real everyday problem
 
 ---
 
-> All private repos you don’t see… support the products you soon will 😉
+> All private repos you don’t see… might be your next favorite tool 😉
